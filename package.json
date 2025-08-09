@@ -1,0 +1,26 @@
+{
+  "name": "discipline-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "localforage": "1.10.0",
+    "date-fns": "2.30.0",
+    "tesseract.js": "v2.1.5",
+    "pdfjs-dist": "3.9.179",
+    "i18next": "23.0.1",
+    "workbox-window": "7.0.0",
+    "uuid": "9.0.0"
+  },
+  "devDependencies": {
+    "vite": "5.2.0",
+    "@vitejs/plugin-react": "4.0.0",
+    "workbox-build": "7.0.0"
+  }
+}
